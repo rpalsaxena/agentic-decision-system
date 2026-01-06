@@ -1,0 +1,31 @@
+# Core Dependencies
+python-dotenv
+pydantic
+
+# Database
+asyncpg
+
+# Cache & Rate Limiting
+redis
+
+# Vector Database
+pinecone-client
+
+# LLM APIs
+anthropic
+openai
+
+# Structured Outputs
+instructor
+
+# Embeddings
+sentence-transformers
+
+# Async Support
+aiohttp
+asyncio
+
+# Utilities
+tenacity  # Retry logic
+loguru    # Better logging
+
